@@ -1,7 +1,29 @@
-# Belmont North Property Insights – Powered by Microburbs API:
-A dashboard that pulls live listing data from the Microburbs API and displays property insights for Australian investors.
-Filters for bathrooms, price range, garage spaces, land size, and property type (House or Unit).
-A map displaying property locations in Belmont North using latitude and longitude.
-A bar chart showing the average price by the number of bedrooms.
-A pie chart illustrating the average price distribution by property type (House vs. Unit).
-A median price indicator at the top.
+# Property Insights Dashboard:
+Objective
+
+Analyse property listings in Belmont North and present key pricing and property trends in an easy-to-understand dashboard.
+
+Tools Used
+Power BI
+Power Query
+Microburbs API
+Excel
+What I Did
+Collected property listing data from the Microburbs API.
+Cleaned and prepared the data for analysis.
+Built an interactive Power BI dashboard.
+Added filters for price, bedrooms, bathrooms, land size, garage spaces and property type.
+Created visuals to compare property prices and locations.
+Dashboard Highlights
+
+The dashboard allows users to:
+
+Compare average prices by number of bedrooms.
+Compare houses and units.
+View median property prices.
+Explore listings by location.
+Filter properties based on different characteristics.
+
+Purpose
+
+This project demonstrates my ability to prepare data, build interactive dashboards and turn property data into clear insights for decision-making.
